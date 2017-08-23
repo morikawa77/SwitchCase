@@ -1,1 +1,1 @@
-"Switch Case C# Curso Programa‡Æo de Dispositivos M¢veis SENAC" 
+"Switch Case C# Curso Programação de Dispositivos Móveis SENAC" 
